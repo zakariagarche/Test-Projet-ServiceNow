@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="73cec15b07e220108002f48f7c1ed015" sys_domain="global" table="x_591587_innover_innovate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-02 18:32:03</sys_created_on>
+            <sys_id>d795195f07e220108002f48f7c1ed084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_591587_innover_innovate" sys_domain="global" view="Default view">73cec15b07e220108002f48f7c1ed015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-02 18:32:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-02 18:32:03</sys_created_on>
+            <sys_id>5b95195f07e220108002f48f7c1ed084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_591587_innover_innovate" sys_domain="global" view="Default view">73cec15b07e220108002f48f7c1ed015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-02 18:32:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-02 18:32:03</sys_created_on>
+            <sys_id>db95195f07e220108002f48f7c1ed084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_591587_innover_innovate" sys_domain="global" view="Default view">73cec15b07e220108002f48f7c1ed015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-02 18:32:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-02 18:32:03</sys_created_on>
+            <sys_id>5f95195f07e220108002f48f7c1ed084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_591587_innover_innovate" sys_domain="global" view="Default view">73cec15b07e220108002f48f7c1ed015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-02 18:32:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-02 18:32:03</sys_created_on>
+            <sys_id>df95195f07e220108002f48f7c1ed084</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_591587_innover_innovate" sys_domain="global" view="Default view">73cec15b07e220108002f48f7c1ed015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-02 18:32:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-02 18:32:03</sys_created_on>
+            <sys_id>5395195f07e220108002f48f7c1ed085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_591587_innover_innovate" sys_domain="global" view="Default view">73cec15b07e220108002f48f7c1ed015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-02 18:32:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_591587_innover_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-02 18:02:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73cec15b07e220108002f48f7c1ed015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_591587_innover_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innover" source="x_591587_innover">017dc99307e220108002f48f7c1ed058</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innover">017dc99307e220108002f48f7c1ed058</sys_scope>
+            <sys_update_name>sys_ui_section_73cec15b07e220108002f48f7c1ed015</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-02 18:02:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
